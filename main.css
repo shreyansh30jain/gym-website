@@ -1,0 +1,980 @@
+.presence{
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 40px;
+    margin-bottom: 25px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inner{
+    display: flex;
+}
+.inner-presence1{
+    display: flex;
+}
+.inner-presence2{
+    display: flex;
+}
+.inn1 img{
+    width: 325px;
+    height: 225px;
+    padding-left: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.inn1 h3{
+    padding-top: 15px;
+    text-align: center;
+    color:gray;
+    padding-bottom: 15px;
+}
+.inn2 img{
+    width: 325px;
+    height: 225px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.inn2 h3{
+    padding-top: 15px;
+    text-align: center;
+    color:gray;
+    padding-bottom: 15px;
+}
+.inn3 img{
+    width:325px;
+    height:225px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.inn3 h3{
+    padding-top: 15px;
+    text-align: center;
+    color:gray;
+    padding-bottom: 15px;
+}
+.inn4 img{
+    width:325px;
+    height: 225px;
+    padding-right: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.inn4 h3{
+    padding-top: 15px;
+    text-align: center;
+    color:gray;
+    padding-bottom: 15px;
+}
+.gallery{
+    background-image: url(images/training-banner.jpg);
+    width: 100%;
+    height: 500px;
+}
+.text1{
+    text-align: center;
+    font-size: 50px;
+    color: blanchedalmond;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+}
+.text2{
+    text-align: center;
+    color: yellow;
+    font-size: 25px;
+}
+.subgallery{
+    display: flex;
+}
+.subgallery1{
+    display: flex;
+}
+.subgallery2{
+    display: flex;
+}
+.image1 img{
+    width: 230px;
+    height: 230px;
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.image2 img{
+    width: 230px;
+    height: 230px;
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.image3 img{
+    width: 230px;
+    height: 230px;
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.image4 img{
+    width: 230px;
+    height: 230px;
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.button{
+    padding-top: 40px;
+    text-align: center;
+}
+.info{
+    padding-top: 20px;
+}
+.head1 h1{
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+}
+.card1{
+    display: flex;
+}
+.card2{
+    width:40rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 3rem;
+}
+.card3{
+    width:30rem;
+    padding-right: 10rem;
+    padding-top: 3rem;
+}
+.card4{
+    width:30rem;
+    padding-right: 10rem;
+    padding-top: 3rem;
+}
+.footer{
+    background-color:#212121 ;
+    height: 600px;
+    width: 100%;
+}
+.headings{
+    display: flex;
+}
+.headings h3{
+    color: gold;
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+}
+.headings h2{
+    color: yellow;
+    padding-top: 60px;
+    padding-bottom: 15px;
+    padding-left: 600px;
+}
+.imp{
+    display: flex;
+    color: goldenrod;
+    padding-left: 50px;
+}
+.app{
+    display: flex;
+}
+.playstore{
+    padding-top: 10px;
+    width: 25px;
+    padding-left: 250px;
+}
+.playstore img{
+    width: 300px;
+}
+.appstore{
+    padding-top: 10px;
+    width: 25px;
+    padding-left: 350px;
+}
+.appstore img{
+    width: 300px;
+    border-radius: 8px;
+}
+.socials{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.facebook img{
+    width: 80px;
+    height: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 50%;
+}
+.instagram img{
+    width: 65px;
+    height: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+    border-radius: 50%;
+}
+.twitter img{
+    width: 80px;
+    height: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 50%;
+}
+.youtube img{
+    width: 50px;
+    height: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 50%;
+}
+.regards{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.regards h1{
+    font-size: 80px;
+}
+#myBtn1{
+    background-color:darkcyan;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#myBtn2{
+    background-color:darkcyan;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#myBtn3{
+    background-color:darkcyan;
+    border-radius: 10px;
+    font-size: 20px;
+}
+@media only screen and (max-width: 1024px){
+    .presence{
+        margin-top: 20px;
+        padding-top: 20px;
+        font-size: 50px;
+    }
+    .inn1 img{
+        width: 250px;
+        height: 225px;
+    }
+    .inn2 img{
+        width: 250px;
+        height: 225px;
+    }
+    .inn3 img{
+        width: 250px;
+        height: 225px;
+    }
+    .inn4 img{
+        width: 250px;
+        height: 225px;
+    }
+    .footer{
+        height: 740px;
+    }
+    .headings{
+        display: flex;
+    }
+    .headings h3{
+        padding-bottom: 25px;
+        font-size: 50px;
+    }
+    .headings h2{
+        padding-bottom: 25px;
+        font-size: 50px;
+        padding-left: 400px;
+    }
+    .imp{
+        padding-top: 50px;
+        font-size: 25px;
+    }
+    .app{
+        display: block;
+    }
+    .playstore{
+        padding-top: 10px;
+        padding-left: 100px;
+    }
+    .playstore img{
+        width: 250px;
+    }
+    .appstore{
+        padding-top: 40px;
+        padding-left: 100px;
+    }
+    .appstore img{
+        width: 250px;
+    }
+    .regards h1{
+        font-size: 60px;
+    }
+    .card2{
+        width:45rem;
+        padding-left: 1rem;
+        padding-right: 3rem;
+        padding-top: 3rem;
+    }
+    .card3{
+        width: 45rem;
+        padding-right: 3rem;
+        padding-top: 3rem;
+    }
+    .card4{
+        width:45rem;
+       padding-right: 1rem;;
+        padding-top: 3rem;
+    }
+}
+@media only screen and (max-width: 768px){
+    .presence{
+        font-size: 60px;
+    }
+    .inn1 img{
+        width: 185px;
+        height: 225px;
+    }
+    .inn2 img{
+        width: 185px;
+        height: 225px;
+    }
+    .inn3 img{
+        width: 185px;
+        height: 225px;
+    }
+    .inn4 img{
+        width: 185px;
+        height: 225px;
+        padding-right: 0px;
+    }
+    .inn1 h3{
+        font-size: 40px;
+    }
+    .inn2 h3{
+        font-size: 40px;
+    }
+    .inn3 h3{
+        font-size: 40px;
+    }
+    .inn4 h3{
+        font-size: 40px;
+    }
+    .text1{
+       font-size: 60px;
+        padding-top: 35px;
+    }
+    .text2{
+        font-size: 35px;
+    }
+    .subgallery{
+        display: flex;
+    }
+    .image1 img{
+        width: 180px;
+        height: 230px;
+    }
+    .image2 img{
+        width:  180px;
+        height: 230px;
+    }
+    .image3 img{
+        width:  180px;
+        height: 230px;
+    }
+    .image4 img{
+        width:  180px;
+        height: 230px;
+    }
+    .headings{
+        display: flex;
+    }
+    .headings h2{
+        padding-left: 200px;
+    }
+    .imp{
+        font-size: 22px;
+    }
+    .app{
+        display: block;
+    }
+    .playstore{
+        padding-top: 90px;
+        padding-left: 0px;
+    }
+    .playstore img{
+        width: 200px;
+    }
+    .appstore{
+        padding-top: 50px;
+        padding-left: 0px;
+    }
+    .appstore img{
+        width: 200px;
+    }
+    .regards h1{
+        font-size: 50px;
+    }
+    .info{
+        padding-top: 20px;
+    }
+    .head1 h1{
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 60px;
+    }
+    .card1{
+        display: flex;
+    }
+    .card2{
+        width:30rem;
+        padding-left: 1rem;
+        padding-right: 3rem;
+        padding-top: 3rem;
+    }
+    .card3{
+        width:30rem;
+        padding-right: 3rem;
+        padding-top: 3rem;
+    }
+    .card4{
+        width:30rem;
+       padding-right: 0rem;;
+        padding-top: 3rem;
+    }
+}
+@media only screen and (max-width: 550px)
+    {
+        .presence
+        {
+            margin-top: 0px;
+            padding-top: 20px;
+            margin-bottom: 15px;
+            font-size: 32px;
+        }
+        .inner{
+            display:inline-block
+        }
+        .inn1 img{
+            width: 220px;
+            height: 160px;
+            padding-left: 30px;
+            margin-top:0px;
+            padding-top: 10px;
+        }
+        .inn1 h3{
+            font-size: 30px;
+        }
+        .inn2 img{
+            width: 220px;
+            height: 160px;
+            padding-left: 30px;
+            margin-top:0px;
+            padding-top: 10px;
+        }
+        .inn2 h3{
+            font-size: 30px;
+        }
+        .inn3 img{
+            width: 220px;
+            height: 160px;
+            padding-left: 30px;
+            margin-top:0px;
+            padding-top: 10px;
+        }
+        .inn3 h3{
+            font-size: 30px;
+            padding-right: 10px;
+        }
+        .inn4 img{
+            width: 220px;
+            height: 160px;
+            padding-left: 30px;
+            margin-top:0px;
+            padding-top: 10px;
+        }
+        .inn4 h3{
+            font-size: 30px;
+            padding-left: 10px;
+        }
+        .gallery{
+            height: 510px;
+        }
+        .text1{
+            font-size: 35px;
+            padding-top: 20px;
+        }
+        .text2{
+            font-size: 25px;
+        }
+        .subgallery{
+            display:inline-block;
+        }
+        .image1 img{
+            width: 220px;
+            height: 150px;
+            padding-top: 30px;
+        }
+        .image2 img{
+            width: 220px;
+            height: 150px;
+            padding-top: 30px;
+        }
+        .image3 img{
+            width: 220px;
+            height: 150px;
+            padding-top: 30px;
+        }
+        .image4 img{
+            width: 220px;
+            height: 150px;
+            padding-top: 30px;
+        }
+        .button{
+            padding-top: 20px;
+            text-align: center;
+        }
+        .text1{
+            font-size: 25px;
+            padding-top: 20px;
+        }
+        .text2{
+            font-size: 19px;
+        }
+        .subgallery{
+            display:inline-block;
+        }
+        .image1 img{
+            width: 180px;
+            height: 160px;
+            padding-top: 50px;
+        }
+        .image2 img{
+            width: 180px;
+            height: 160px;
+            padding-top: 50px;
+        }
+        .image3 img{
+            width: 180px;
+            height: 160px;
+            padding-top: 50px;
+        }
+        .image4 img{
+            width: 180px;
+            height: 160px;
+            padding-top: 50px;
+        }
+        .info{
+            padding-top: 5px;
+        }
+        .head1 h1{
+            padding-top: 5px;
+            padding-bottom: 5px;
+            font-size: 40px;
+        }
+        .card2{
+            width:40rem;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-top: 1rem;
+        }
+        .card2 img{
+            width: 10rem;
+        }
+        .card3{
+            padding-right: 1rem;
+            padding-top: 1rem;
+        }
+        .card3 img{
+            width: 10rem;
+        }
+        .card4{
+            display: none;
+            width:30rem;
+            padding-right: 10rem;
+            padding-top: 3rem;
+        }
+        .footer{
+            height: 700px;
+        }
+        .headings{
+            display: flex;
+        }
+        .headings h3{
+            padding-top: 20px;
+            padding-left: 20px;
+            padding-bottom: 10px;
+            font-size: 30px;
+        }
+        .headings h2{
+            padding-top: 20px;
+            padding-bottom: 10px;
+            padding-left: 60px;
+            font-size: 30px;
+        }
+        .imp {
+            font-size: 18px;
+            padding-left: 10px;
+            padding-top: 15px;
+            display: block;
+        }
+        .app{
+            display: block;
+        }
+        .playstore{
+            padding-top: 40px;
+            padding-left: 300px;
+        }
+        .playstore img{
+            width: 150px;
+        }
+        .appstore{
+            padding-top: 20px;
+            padding-left: 300px;
+            padding-bottom: 50px;
+        }
+        .appstore img{
+            width: 150px;
+        }
+        .regards h1{
+            font-size: 25px;
+            padding-top: 0px;
+        }
+    }
+    @media only screen and (max-width: 415px)
+    {
+        .presence
+        {
+            text-align: center;
+            margin-top: 0px;
+            padding-top: 15px;
+            margin-bottom: 15px;
+            font-size: 28px;
+        }
+        .inner{
+            display:inline-block
+        }
+        .inn1 img{
+            width: 150px;
+            height: 100px;
+            padding-left: 25px;
+            margin-top:0px;
+            padding-top: 3px;
+        }
+        .inn1 h3{
+            font-size: 25px;
+        }
+        .inn2 img{
+            width: 200px;
+            height: 100px;
+            padding-left: 50px;
+            margin-top:0px;
+            padding-top: 3px;
+        }
+        .inn2 h3{
+            font-size: 25px;
+        }
+        .inn3 img{
+            width: 200px;
+            height: 100px;
+            padding-left: 50px;
+            margin-top:0px;
+            padding-top: 3px;
+        }
+        .inn3 h3{
+            font-size: 25px;
+            padding-right: 10px;
+        }
+        .inn4 img{
+            width: 170px;
+            height: 100px;
+            padding-left: 20px;
+            margin-top:0px;
+            padding-top: 3px;
+        }
+        .inn4 h3{
+            font-size: 25px;
+            padding-left: 10px;
+        }
+        .gallery{
+            height: 510px;
+        }
+        .text1{
+            font-size: 25px;
+            padding-top: 20px;
+        }
+        .text2{
+            font-size: 19px;
+        }
+        .subgallery{
+            display:inline-block;
+        }
+        .image1 img{
+            width: 180px;
+            height: 160px;
+            padding-top: 50px;
+        }
+        .image2 img{
+            width: 180px;
+            height: 160px;
+            padding-top: 50px;
+        }
+        .image3 img{
+            width: 180px;
+            height: 160px;
+            padding-top: 50px;
+        }
+        .image4 img{
+            width: 180px;
+            height: 160px;
+            padding-top: 50px;
+        }
+        .info{
+            padding-top: 5px;
+        }
+        .head1 h1{
+            padding-top: 5px;
+            padding-bottom: 5px;
+            font-size: 40px;
+        }
+        .card2{
+            width:40rem;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-top: 1rem;
+        }
+        .card2 img{
+            width: 10rem;
+        }
+        .card3{
+            padding-right: 1rem;
+            padding-top: 1rem;
+        }
+        .card3 img{
+            width: 10rem;
+        }
+        .card4{
+            display: none;
+            width:30rem;
+            padding-right: 10rem;
+            padding-top: 3rem;
+        }
+        .footer{
+            height: 700px;
+        }
+        .headings{
+            display: flex;
+        }
+        .headings h3{
+            padding-top: 20px;
+            padding-left: 20px;
+            padding-bottom: 10px;
+            font-size: 30px;
+        }
+        .headings h2{
+            padding-top: 20px;
+            padding-bottom: 10px;
+            padding-left: 60px;
+            font-size: 30px;
+        }
+        .imp {
+            font-size: 18px;
+            padding-left: 10px;
+            padding-top: 15px;
+            display: block;
+        }
+        .app{
+            display: block;
+        }
+        .playstore{
+            padding-top: 40px;
+            padding-left: 200px;
+        }
+        .playstore img{
+            width: 150px;
+        }
+        .appstore{
+            padding-top: 20px;
+            padding-left: 200px;
+            padding-bottom: 50px;
+        }
+        .appstore img{
+            width: 150px;
+        }
+        .regards h1{
+            font-size: 25px;
+            padding-top: 0px;
+        }
+    }
+        @media only screen and (max-width: 365px)
+        {
+            .head1 h1{
+                font-size: 30px;
+            }
+            .presence
+        {
+            font-size: 24px;
+        }
+        .inn1 img{
+            padding-left: 15px;
+        }
+        .inn1 h3{
+            font-size: 15px;
+        }
+        .inn2 img{
+            padding-left: 15px;
+        }
+        .inn2 h3{
+            font-size: 15px;
+        }
+        .inn3 img{
+            padding-left: 20px;
+        }
+        .inn3 h3{
+            font-size: 15px;
+            padding-left: 0px;
+        }
+        .inn4 img{
+            padding-left: 10px;
+        }
+        .inn4 h3{
+            font-size: 15px;
+            padding-left: 0px;
+        }
+        .headings h3{
+            font-size: 25px;
+        }
+        .headings h2{
+            font-size: 25px;
+        }
+        .playstore{
+            padding-left: 170px;
+        }
+        .appstore{
+            padding-left: 170px;
+        }
+        .card3{
+            padding-right: 0rem;
+            padding-top: 1rem;
+        }
+        .card3 img{
+            width: 9rem;
+        }
+        .card2{
+            width:40rem;
+            padding-left: 0.5rem;
+            padding-right: 0.5rem;
+            padding-top: 1rem;
+        }
+        .card2 img{
+            width: 9rem;
+        }
+        }
+        @media only screen and (max-width: 321px)
+        {
+            .presence
+        {
+            font-size: 24px;
+        }
+        .inn1 img{
+            padding-left: 10px;
+            width: 130px;
+        }
+        .inn1 h3{
+            font-size: 12px;
+        }
+        .inn2 img{
+            padding-left: 10px;
+            width: 130px;
+        }
+        .inn2 h3{
+            font-size: 12px;
+        }
+        .inn3 img{
+            padding-left: 15px;
+            width: 130px;
+        }
+        .inn3 h3{
+            font-size: 12px;
+            padding-left: 0px;
+        }
+        .inn4 img{
+            padding-left: 10px;
+            width: 130px;
+        }
+        .inn4 h3{
+            font-size: 12px;
+            padding-left: 0px;
+        }
+        .headings h3{
+            font-size: 22px;
+        }
+        .headings h2{
+            font-size: 22px;
+        }
+        .playstore{
+            padding-left: 140px;
+        }
+        .appstore{
+            padding-left: 140px;
+        }
+        .card3{
+            padding-right: 0rem;
+            padding-top: 1rem;
+        }
+        .card3 img{
+            width: 9rem;
+        }
+        .card2{
+            width:40rem;
+            padding-left: 0.5rem;
+            padding-right: 0.5rem;
+            padding-top: 1rem;
+        }
+        .card2 img{
+            width: 9rem;
+        }
+        .text1{
+            font-size: 22px;
+            padding-top: 15px;
+        }
+        .text2{
+            font-size: 17px;
+        }
+        .image1 img{
+            width: 160px;
+            padding-top: 40px;
+        }
+        .image2 img{
+            width: 160px;
+            padding-top: 40px;
+        }
+        .image3 img{
+            width: 160px;
+            padding-top: 40px;
+        }
+        .image4 img{
+            width: 160px;
+            padding-top: 40px;
+        }
+        }
